@@ -19,7 +19,7 @@ DevOps are a benefit to any tech stack due to their assistance in streamlining t
 
 Cloud computing is the process of 'offshoring' a companies data to a dedicated remote storage facility. Cloud computing assists in reducing inevitable costs of keeping data locally (On Prem).
 
-_**CSP's have the ability to manage:**_
+**CSP's have the ability to manage:**
 
 - Applications
 - Data
@@ -34,6 +34,13 @@ _**CSP's have the ability to manage:**_
 ### SaaS
 
 Software As A Service (SaaS) is the cloud solution where the cloud service provider (CSP) keeps and stores all the data. 
+The benefit of using this solution is that the owner does not have the burden of purchasing and setting up physical hardware, installing Operating Systems, Virtualization, setting up a network, installing and maintaining middleware, runtime and applications.
+
+We benefit from Saas because however big our entreprise is, it is very easay to scale up if required and scale down also. You will only be paying for the resources you use, and you benefit from support should it be required.
+
+You also benefit from automatic software updates with zero downtime at no extra cost. 
+ 
+#### Examples of Saas:
 
 - Tools and applications such Netflix and Gmail operate in a SaaS capacity.
 
