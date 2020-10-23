@@ -2,7 +2,7 @@
 
 ### What is DevOps?
 
-DevOps is the combination of Development Engineers and Operations personel. 
+DevOps is the combination of the Development pipeline and Operations personel. 
 
 Developers create, fix bugs, code refactor perform security tasks and deploy code to production servers.
 
@@ -13,13 +13,13 @@ DevOps Engineers work together with Developers and Operations to bridge the gap 
 
 ### Benefits to the business
 
-DevOps are a benefit to any tech stack because they assist in streamlining the deplyoment of code and tools to the public and assist with ensuring resources are continually accessible along the infrastructure team.
+DevOps are a benefit to any tech stack due to their assistance in streamlining the deplyoment of code and tools to the public and assist with ensuring resources are continually accessible alongside the infrastructure team.
 
 ### Cloud Computing
 
 Cloud computing is the process of 'offshoring' a companies data to a dedicated remote storage facility. Cloud computing assists in reducing inevitable costs of keeping data locally (On Prem).
 
-CSP's have the ability to manage:
+_**CSP's have the ability to manage:**_
 
 - Applications
 - Data
